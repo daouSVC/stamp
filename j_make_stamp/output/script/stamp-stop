@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sh ./killsvr j_make_stamp
