@@ -1,0 +1,20 @@
+10/06 15:16:28 [http-nio-8088-exec-3] : -----------------------------------------------------------------------------------------------------------------------------------
+10/06 15:16:28 [http-nio-8088-exec-3] : [INFO] [TEST] Stamp Image Create Start [tester20221006151628.jpg]
+10/06 15:16:28 [http-nio-8088-exec-3] : [INFO] [TEST] Parameter Info, Key = tester20221006151628 | Request IP = 127.0.0.1 | sname_org = 이준 | sname_converted = 이준 | stype = 한글원형양각 | id = tester | referer = null | referer_valid_chk_result = true
+10/06 15:16:29 [http-nio-8088-exec-3] : [INFO] [TEST] Stamp Image Create Complete !!!
+10/06 15:16:29 [http-nio-8088-exec-3] : [INFO] Stamp Image File Deleted, Deleted File = ./images\tester20221006151628.jpg
+10/06 15:16:55 [http-nio-8088-exec-5] : -----------------------------------------------------------------------------------------------------------------------------------
+10/06 15:16:55 [http-nio-8088-exec-5] : [INFO] [TEST] Stamp Image Create Start [tester20221006151655.jpg]
+10/06 15:16:55 [http-nio-8088-exec-5] : [INFO] [TEST] Parameter Info, Key = tester20221006151655 | Request IP = 127.0.0.1 | sname_org = 이준 | sname_converted = 이준 | stype = 한글원형음각 | id = tester | referer = null | referer_valid_chk_result = true
+10/06 15:16:55 [http-nio-8088-exec-5] : [INFO] [TEST] Stamp Image Create Complete !!!
+10/06 15:16:55 [http-nio-8088-exec-5] : [INFO] Stamp Image File Deleted, Deleted File = ./images\tester20221006151655.jpg
+10/06 15:16:58 [http-nio-8088-exec-6] : -----------------------------------------------------------------------------------------------------------------------------------
+10/06 15:16:58 [http-nio-8088-exec-6] : [INFO] [TEST] Stamp Image Create Start [tester20221006151658.jpg]
+10/06 15:16:58 [http-nio-8088-exec-6] : [INFO] [TEST] Parameter Info, Key = tester20221006151658 | Request IP = 127.0.0.1 | sname_org = 이준 | sname_converted = 이준 | stype = 한글원형음각 | id = tester | referer = null | referer_valid_chk_result = true
+10/06 15:16:58 [http-nio-8088-exec-6] : [INFO] [TEST] Stamp Image Create Complete !!!
+10/06 15:16:58 [http-nio-8088-exec-6] : [INFO] Stamp Image File Deleted, Deleted File = ./images\tester20221006151658.jpg
+10/06 15:37:40 [http-nio-8088-exec-1] : -----------------------------------------------------------------------------------------------------------------------------------
+10/06 15:37:40 [http-nio-8088-exec-1] : [INFO] [TEST] Stamp Image Create Start [tester20221006153740.jpg]
+10/06 15:37:40 [http-nio-8088-exec-1] : [INFO] [TEST] Parameter Info, Key = tester20221006153740 | Request IP = 127.0.0.1 | sname_org = 김희선 | sname_converted = 김희선 | stype = 한글원형양각 | id = tester | referer = null | referer_valid_chk_result = true
+10/06 15:37:40 [http-nio-8088-exec-1] : [INFO] [TEST] Stamp Image Create Complete !!!
+10/06 15:37:40 [http-nio-8088-exec-1] : [INFO] Stamp Image File Deleted, Deleted File = ./images\tester20221006153740.jpg
